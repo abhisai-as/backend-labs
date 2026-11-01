@@ -5,7 +5,7 @@
 
 
 ## Live Link
-https://backend-development-lab-01-6sbj.onrender.com
+
 Deployed using render platform successfully
 
 ## Objective
