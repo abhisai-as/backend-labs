@@ -8,8 +8,8 @@ app.get('/', (request, response) => {
 
 app.get('/about', (request, response) => {
     response.status(200).json({
-        name: 'Gurram Shravana Manikanta',
-        'Registration number': "252U1R6094",
+        name: 'Govindu Abhi Sai',
+        'Registration number': "252U1R6086",
         section: 'CSE AIML 2B'
     });
 });
